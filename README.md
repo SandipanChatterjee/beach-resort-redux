@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+add a .env.development and add your contentful credentials
+
 ## Available Scripts
 
 In the project directory, you can run:
